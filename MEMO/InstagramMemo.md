@@ -1,5 +1,3 @@
-https://www.instagram.com/developer/authentication/
-
 ##認証
 Instagram APIは、簡単で効果的な認証と認可のためにOAuth 2.0プロトコルを使用します。 OAuth 2.0は従来のスキームよりもはるかに使いやすく、開発者はInstagram APIをすぐに使用することができます。心に留めておくべきことは、APIに対するすべてのリクエストはSSLを使用して行う必要があることです。
 
